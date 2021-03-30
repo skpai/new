@@ -1,0 +1,48 @@
+*   commit 06db72322a43035c0b07de81ac6f542b83c579db
+|\  Merge: 27bf5bb 4322fd5
+| | Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+| | Date:   Tue Mar 30 13:23:09 2021 +0100
+| | 
+| |     Merged
+| | 
+| * commit 4322fd53a96e5e0aad57c41797a206f354f91eb9
+| | Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+| | Date:   Tue Mar 30 13:15:32 2021 +0100
+| | 
+| |     Edited with some text
+| | 
+* | commit 27bf5bb67e04c2ba569a628a3d8647c26c125a4f
+|/  Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+|   Date:   Tue Mar 30 13:16:52 2021 +0100
+|   
+|       Edited with some text on master
+| 
+* commit 1d1c81b34ed38b40b6efe613fb2ef0ce9d03d1f2
+| Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+| Date:   Tue Mar 30 13:13:18 2021 +0100
+| 
+|     file created
+| 
+* commit 6e4b15b68c013ee3a85b946e2af6877e651acf6f
+| Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+| Date:   Tue Mar 30 13:04:32 2021 +0100
+| 
+|     added 2nd feature
+| 
+* commit 8d1935c68a740a5d4c177169af369f25b1d028ae
+| Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+| Date:   Tue Mar 30 13:02:37 2021 +0100
+| 
+|     added 1st feature
+| 
+* commit 383a25f0458e42752201f962536fc5d5c25da1d5
+| Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+| Date:   Tue Mar 30 12:47:32 2021 +0100
+| 
+|     2nd added comment
+| 
+* commit 556d52907c8833d2109c0ad90d33dd89573924d8
+  Author: skpai <suresh.sasidharan-pillai@le-campus-numerique.fr>
+  Date:   Tue Mar 30 12:45:15 2021 +0100
+  
+      first
